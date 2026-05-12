@@ -1,6 +1,6 @@
-# SMART-MEDECINE-SYSTEM
+# Smart Medicine Tracker
 
-"A medicine reminder application built using Python Tkinter"
+A medicine reminder application built using Python Tkinter.
 
 ## Features
 - User Login System
